@@ -1,3 +1,5 @@
 {
-    "canUserLogin": "true"
+    "loginHandle": {
+        "canUserLogin" : "true"
+    }
 }
